@@ -45,7 +45,7 @@ body {
     list-style-type: none;
 }
 
-.nav-link {
+.nav-link-abc {
     color: var(--NAVY-BLUE, #2e2f42);
     font-size: 16px;
     font-weight: 500;
@@ -56,7 +56,7 @@ body {
 
 .nav-link:hover,
 .nav-link:focus {
-    color: var(--OCEAN);
+    color: #404bbf;
 }
 
 .address-container {
@@ -272,7 +272,4 @@ body {
     line-height: 150%;
     /* 150% */
     letter-spacing: 0.32px;
-}
-.hidden{
-    display: none;
 }
