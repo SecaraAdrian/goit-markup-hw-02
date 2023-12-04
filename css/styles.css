@@ -1,0 +1,20 @@
+.logo-link .logo-dark-header {
+    color:#2E2F42
+    
+}
+.logo-link{
+    color: #4D5AE5;
+    font-family: Raleway;
+        font-size: 18px;
+        font-weight: 800;
+        line-height: 21px;
+        letter-spacing: 0.03em;
+        text-align: left;
+}
+
+.dark-color{
+    color: #2E2F42;
+}
+.address{
+    color: #434455;
+}
