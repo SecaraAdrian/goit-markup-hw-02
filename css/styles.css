@@ -31,7 +31,7 @@ ul{
     text-decoration: none;
 }
 /* section body style */
-.body-section{
+.body{
     font-family: "Roboto",'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
     color: var(--SLATE);
     background-color: var(--WHITE);
