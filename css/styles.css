@@ -9,7 +9,8 @@
 .logo{
     color: var(--IRIS);
         font-size: 18px;
-        font-family: "Raleway", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        body {
+        font-family: "Roboto", sans-serif;
         font-weight: 800;
         text-transform: uppercase;
         line-height: 1.17px;
@@ -32,7 +33,7 @@ ul{
 }
 /* section body style */
 .body{
-    font-family: "Roboto",'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-family: "Roboto", sans-serif;
     color: var(--SLATE);
     background-color: var(--WHITE);
 
