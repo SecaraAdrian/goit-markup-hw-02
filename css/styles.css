@@ -52,10 +52,6 @@ color: var(--NAVY-BLUE)
 .button:hover{
     background-color: var(--OCEAN);
 }
-.button:focus{
-    color: #ffffff;
-    background-color: #404BBF
-}
 .button{
     cursor: pointer;
     font-family: 'Raleway', sans-serif;
@@ -68,9 +64,12 @@ color: var(--NAVY-BLUE)
 }
 .button :hover{
     color: #ffffff;
+        background-color: #404BBF
+}
+.button:focus{
+    color: #ffffff;
     background-color: #404BBF
 }
-.button 
 
 a{
     text-decoration: none;
