@@ -42,6 +42,7 @@ ul{
     
 }
 .list{
+    list-style: none;
 font-weight: 500;
 color: var(--NAVY-BLUE)
 }
@@ -52,11 +53,24 @@ color: var(--NAVY-BLUE)
     background-color: var(--OCEAN);
 }
 .button:focus{
-    background-color: #404BBF;
+    color: #ffffff;
+    background-color: #404BBF
 }
 .button{
     cursor: pointer;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: var(--IRIS);
+    background-color: var(--CLOUD);
 }
+.button :hover{
+    color: #ffffff;
+    background-color: #404BBF
+}
+.button 
 
 a{
     text-decoration: none;
@@ -65,4 +79,7 @@ a{
     background-color: var(--NAVY-BLUE);
     font-family: 'Raleway', sans-serif;
     line-height: 1.17;
+}
+.span{
+    color: #f4f4f4fd;
 }
