@@ -1,24 +1,60 @@
+:root{
+    --IRIS: #4D5AE5;
+        --NAVY-BLUE: #2E2F42;
+        --WHITE: #FFFFFF;
+        --SLATE: #434455;
+        --CLOUD: #F4F4FD;
+        --OCEAN: #404BBF;
+}
 .logo{
-    color: #4D5AE5;
+    color: var(--IRIS);
         font-size: 18px;
         font-family: "Raleway", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         font-weight: 800;
         text-transform: uppercase;
-        line-height: 21px;
+        line-height: 1.17px;
         text-decoration: none; 
+        letter-spacing: 0.03em
 }
 .part-of-logo {
-    color: #2E2F42;
+    color: var(--NAVY-BLUE);
         font-size: 18px;
         font-family: Raleway;
         font-weight: 800;
         text-transform: uppercase;
-        line-height: 21px;
+        line-height: 1.17px;
+        letter-spacing: 0.03em
 }
     
 ul{
     list-style: none;
+    text-decoration: none;
 }
+/* section body style */
+.body-section{
+    font-family: "Roboto",'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: var(--SLATE);
+    background-color: var(--WHITE);
 
-
+}
+.link{
+    text-decoration: none;
+    
+}
+.list{
+font-weight: 500;
+color: var(--NAVY-BLUE)
+}
+.address-container{
+    font-style: normal;
+}
+.button:hover{
+    background-color: var(--OCEAN);
+}
+.button:focus{
+    background-color: #404BBF;
+}
+.button{
+    cursor: pointer;
+}
 
