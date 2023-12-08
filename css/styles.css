@@ -6,7 +6,7 @@
         --CLOUD: #F4F4FD;
         --OCEAN: #404BBF;
 }
-.logo{
+.logo {
     color: var(--IRIS);
         font-size: 18px;
         font-family: "Roboto", sans-serif;
@@ -58,3 +58,6 @@ color: var(--NAVY-BLUE)
     cursor: pointer;
 }
 
+a{
+    text-decoration: none;
+}
