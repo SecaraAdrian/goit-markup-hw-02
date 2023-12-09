@@ -90,3 +90,15 @@ body{
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
+.nav-link:hover{
+    color: #404bbf;
+
+}
+.nav-link:focus{
+    color: #404bbf;
+}
+.address-list{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--SLATE);
+}
