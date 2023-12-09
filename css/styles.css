@@ -49,12 +49,10 @@ color: var(--NAVY-BLUE)
 .address-container{
     font-style: normal;
 }
-.button:hover{
-    background-color: var(--OCEAN);
-}
+
 button{
     cursor: pointer;
-    font-family: 'Raleway', sans-serif;
+    font-family: inherit; /* Moștenește fontul definit în body */
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
