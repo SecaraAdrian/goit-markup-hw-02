@@ -42,7 +42,7 @@ ul{
     
 }
 .link:hover{
-    color: #404bb
+    color: #404bb;
 }
 .link:focus{
     color: #404bbf
@@ -167,6 +167,6 @@ body{
  }
  .footer-additional-description{
     line-height: 1.5;
-    color:var(--CLOUD)
+    color:var(--CLOUD);
     letter-spacing: 0.02em;
  }
