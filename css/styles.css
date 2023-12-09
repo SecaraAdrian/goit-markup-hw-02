@@ -73,11 +73,9 @@ color: var(--NAVY-BLUE);
 .section-one-container {
     background-color:var(--NAVY-BLUE);
 }
-.button{
-color: #ffffff;
-    background-color: #4D5AE5;
+/* .button{
     color: var(--IRIS);
-        background-color: #F4F4FD;
+        background-color: #F4F4FD; */
     
 }
 button {
@@ -104,8 +102,8 @@ font-family: "Roboto", sans-serif;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: #ffffff;
-    background-color: #4D5AE5;
+    color: var(--IRIS);
+    background-color: var(--CLOUD);
     cursor: pointer;
 }
 
