@@ -104,9 +104,6 @@ a{
     font-family: 'Raleway', sans-serif;
     line-height: 1.17;
 }
-span{
-    color: #f4f4f4fd;
-}
 body{
     font-family: "Roboto", sans-serif;
     color: #434455;
@@ -165,11 +162,11 @@ body{
  .white-title{
     background-color: #FFFFFF;
  }
- .footer-additional-description{
+ .footer-additional-description {
     line-height: 1.5;
     color:var(--CLOUD);
     letter-spacing: 0.02em;
  }
- .part-of-logo-footer{
+ .part-of-logo-footer {
     color: #f4f4f4fd;
  }
