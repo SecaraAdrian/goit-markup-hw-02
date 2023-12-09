@@ -153,3 +153,8 @@ body{
     text-transform: capitalize;
     color:var(--NAVY-BLUE);
  }
+ /* index section four */
+ .section-four-container{
+    background-color: #F4F4FD;
+ }
+ 
