@@ -52,7 +52,7 @@ ul{
 font-weight: 500;
 color: var(--NAVY-BLUE);
 }
-.address-container{
+.address-container {
     font-style: normal;
 }
 .address-link {
@@ -60,7 +60,7 @@ color: var(--NAVY-BLUE);
     letter-spacing: 0.02em;
     color: var(--SLATE);
 }
-.address-link:hover{
+.address-link:hover {
     color:#404bbf
 }
 .aparence{
@@ -70,10 +70,10 @@ color: var(--NAVY-BLUE);
     letter-spacing: 0.02em;
     color: #ffffff;
 } 
-.section-one-container{
+.section-one-container {
     background-color:var(--NAVY-BLUE);
 }
-button{
+button {
     cursor: pointer;
     font-family: inherit; /* Moștenește fontul definit în body */
     font-weight: 500;
@@ -83,15 +83,15 @@ button{
     color: var(--IRIS);
     background-color: var(--CLOUD);
 }
-button:hover{
+button:hover {
     color: #ffffff;
         background-color: #404BBF
 }
-button:focus{
+button:focus {
     color: #ffffff;
     background-color: #404BBF
 }
-.sec-one-button{
+.sec-one-button {
 background-color: #4D5AE5;
 color: #ffffff;
 }
@@ -100,7 +100,7 @@ color: #ffffff;
 a{
     text-decoration: none;
 }
-.footer-container{
+.footer-container {
     background-color: var(--NAVY-BLUE);
     font-family: 'Raleway', sans-serif;
     line-height: 1.17;
@@ -108,25 +108,25 @@ a{
  .logo-footer {
      color: #f4f4f4fd;
  }
-body{
+body {
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color:var(--WHITE);
 }
-.nav-link{
+.nav-link {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-.nav-link:hover{
+.nav-link:hover {
     color: #404bbf;
 
 }
-.nav-link:focus{
+.nav-link:focus {
     color: #404bbf;
 }
 /* index section one*/
-.effective{
+.effective {
     font-size: 56px;
     line-height: 1.07;
     text-align:center;
@@ -134,20 +134,20 @@ body{
     color: #ffffff;
 }
  /* index section two */
- .strategy{
+ .strategy {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:var(--NAVY-BLUE);
  }
- .phara{
+ .phara {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--SLATE);
  }
  /* index section three */
- .what{
+ .what {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
