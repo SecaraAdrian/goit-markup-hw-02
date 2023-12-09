@@ -72,10 +72,6 @@ color: var(--NAVY-BLUE);
 } 
 .section-one-container{
     background-color:var(--NAVY-BLUE);
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    text-transform: capitalize;
 }
 button{
     cursor: pointer;
