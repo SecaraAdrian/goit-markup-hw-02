@@ -63,6 +63,15 @@ color: var(--NAVY-BLUE)
 .address-link:hover{
     color:#404bbf
 }
+.aparence{
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+    
+
+} 
 button{
     cursor: pointer;
     font-family: inherit; /* Moștenește fontul definit în body */
@@ -73,7 +82,7 @@ button{
     color: #ffffff;
     background-color: #4D5AE5;
 }
-button :hover{
+button:hover{
     color: #ffffff;
         background-color: #404BBF
 }
@@ -81,6 +90,10 @@ button:focus{
     color: #ffffff;
     background-color: #404BBF
 }
+.sec-one-button{
+background-color:var(--NAVY-BLUE)
+}
+
 
 a{
     text-decoration: none;
