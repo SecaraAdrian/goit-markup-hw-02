@@ -82,3 +82,8 @@ a{
 .span{
     color: #f4f4f4fd;
 }
+body{
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color:var(--WHITE)
+}
