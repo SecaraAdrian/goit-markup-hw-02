@@ -73,6 +73,11 @@ color: var(--NAVY-BLUE);
 .section-one-container {
     background-color:var(--NAVY-BLUE);
 }
+.button{
+    color:var(--IRIS);
+    background-color: #F4F4FD;
+    
+}
 button {
     cursor: pointer;
     font-family: inherit; /* Moștenește fontul definit în body */
