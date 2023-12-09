@@ -152,6 +152,7 @@ body{
     text-align: center;
     text-transform: capitalize;
     color:var(--NAVY-BLUE);
+    letter-spacing: 0.02em;
  }
  /* index section four */
  .section-four-container{
