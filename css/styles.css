@@ -73,7 +73,7 @@ color: var(--NAVY-BLUE);
 .section-one-container {
     background-color:var(--NAVY-BLUE);
 }
-.button{
+/* .button{
 cursor: pointer;
     font-family: inherit;
     /* Moștenește fontul definit în body */
@@ -82,9 +82,8 @@ cursor: pointer;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
-    background-color: #4D5AE5;
-    
-}
+    background-color: #4D5AE5;   
+} */
 /* button {
     cursor: pointer;
     font-family: inherit; /* Moștenește fontul definit în body */
