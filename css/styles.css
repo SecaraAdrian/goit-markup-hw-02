@@ -134,12 +134,12 @@ body {
     color: #ffffff;
 }
  /* index section two */
- .strategy {
+ /* .strategy {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color:var(--NAVY-BLUE);
+    color:var(--NAVY-BLUE); */
  }
  .phara {
     line-height: 1.5;
@@ -147,7 +147,7 @@ body {
     color: var(--SLATE);
  }
  /* index section three */
- .what {
+ .strategy {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -157,7 +157,7 @@ body {
 
  }
  /* index section four */
- .section-four-container{
+ .section-four-container {
     background-color: #f4f4fd;
  }
  .name{
