@@ -172,3 +172,6 @@ body {
     color:var(--CLOUD);
     letter-spacing: 0.02em;
  }
+.team {
+    background-color: #ffffff;
+}
