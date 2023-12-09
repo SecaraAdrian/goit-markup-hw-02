@@ -137,11 +137,12 @@ body {
 }
  /* index section two */
  .what {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color:var(--NAVY-BLUE);
+    font-size: 36px;
+        line-height: 1.11;
+        text-align: center;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        color: 
  }
  
  .phara {
@@ -151,12 +152,11 @@ body {
  }
  /* index section three */
  .strategy {
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    text-transform: capitalize;
-    color:var(--NAVY-BLUE);
-    letter-spacing: 0.02em;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
 
  }
  /* index section four */
