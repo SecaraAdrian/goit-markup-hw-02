@@ -110,7 +110,7 @@ body{
 .nav-link:focus{
     color: #404bbf;
 }
-.first-box{
+.section-one-container{
     background-color: var(--NAVY-BLUE);
 
 }
