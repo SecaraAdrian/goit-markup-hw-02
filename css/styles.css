@@ -69,9 +69,10 @@ color: var(--NAVY-BLUE)
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
-    
-
 } 
+.sec-one-container{
+    background-color:var(--NAVY-BLUE)
+}
 button{
     cursor: pointer;
     font-family: inherit; /* Moștenește fontul definit în body */
