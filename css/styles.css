@@ -165,3 +165,8 @@ body{
  .white-title{
     background-color: #FFFFFF;
  }
+ .footer-additional-description{
+    line-height: 1.5;
+    color:var(--CLOUD)
+    letter-spacing: 0.02em;
+ }
