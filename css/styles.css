@@ -9,7 +9,7 @@
 .logo {
     color: var(--IRIS);
         font-size: 18px;
-        font-family: "Roboto", sans-serif;
+        font-family: "Raleway", sans-serif;
         font-weight: 800;
         text-transform: uppercase;
         line-height: 1.17;
@@ -84,4 +84,9 @@ body{
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color:var(--WHITE)
+}
+.nav-link{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
 }
