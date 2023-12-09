@@ -17,7 +17,7 @@
         letter-spacing: 0.03em
 }
 .part-of-logo {
-    color: var(--NAVY-BLUE);
+        color: #f4f4f4fd;
         font-size: 18px;
         font-family: Raleway;
         font-weight: 800;
@@ -45,12 +45,12 @@ ul{
     color: #404bb;
 }
 .link:focus{
-    color: #404bbf
+    color: #404bbf;
 }
 .list{
     list-style: none;
 font-weight: 500;
-color: var(--NAVY-BLUE)
+color: var(--NAVY-BLUE);
 }
 .address-container{
     font-style: normal;
@@ -92,7 +92,7 @@ button:focus{
     background-color: #404BBF
 }
 .sec-one-button{
-background-color:var(--NAVY-BLUE)
+background-color:var(--NAVY-BLUE);
 }
 
 
@@ -110,7 +110,7 @@ span{
 body{
     font-family: "Roboto", sans-serif;
     color: #434455;
-    background-color:var(--WHITE)
+    background-color:var(--WHITE);
 }
 .nav-link{
     line-height: 1.5;
