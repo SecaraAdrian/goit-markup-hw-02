@@ -149,7 +149,7 @@ body {
         text-align: center;
         letter-spacing: 0.02em;
         text-transform: capitalize;
-        color: 
+        color: var(--NAVY-BLUE)
  }
  
  .phara {
