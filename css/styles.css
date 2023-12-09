@@ -41,6 +41,12 @@ ul{
     text-decoration: none;
     
 }
+.link:hover{
+    color: #404bb
+}
+.link:focus{
+    color: #404bbf
+}
 .list{
     list-style: none;
 font-weight: 500;
