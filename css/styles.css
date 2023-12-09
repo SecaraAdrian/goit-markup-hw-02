@@ -92,7 +92,8 @@ button:focus{
     background-color: #404BBF
 }
 .sec-one-button{
-background-color:var(--NAVY-BLUE);
+background-color: #4D5AE5;
+color: #ffffff;
 }
 
 
