@@ -52,7 +52,7 @@ color: var(--NAVY-BLUE)
 .button:hover{
     background-color: var(--OCEAN);
 }
-.button{
+button{
     cursor: pointer;
     font-family: 'Raleway', sans-serif;
     font-weight: 500;
