@@ -73,33 +73,16 @@ color: var(--NAVY-BLUE);
 .section-one-container {
     background-color:var(--NAVY-BLUE);
 }   
-.button-ind {
-    background-color: #4D5AE5;
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color: #ffffff;
-    cursor: pointer;
-    transition: background-color 0.3s ease, color 0.3s ease;
-}
 
-.button-ind:hover,
-.button-ind:focus{
-    background-color: #404BBF;
-    color: #ffffff;
-}
 .sec-one-button {
-    background-color: var(--CLOUD);
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color: var(--IRIS);
-    cursor: pointer;
-    transition: background-color 0.3s ease;
+    background-color: #4D5AE5;
+        font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #ffffff;
+        cursor: pointer;
     /* Adaugă o tranziție lină pentru schimbarea culorii la hover și focalizare */
 }
 
