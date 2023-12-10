@@ -73,7 +73,23 @@ color: var(--NAVY-BLUE);
 .section-one-container {
     background-color:var(--NAVY-BLUE);
 }   
+.sec-one-button {
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    /* Adaugă o tranziție lină pentru schimbarea culorii la hover și focalizare */
+}
 
+.sec-one-button:hover,
+.sec-one-button:focus {
+    background-color: #404bbf;
+}
 a{
     text-decoration: none;
 }
