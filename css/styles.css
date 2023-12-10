@@ -69,7 +69,6 @@ color: var(--NAVY-BLUE);
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
-    background-color: var(--NAVY-BLUE);
 } 
 /*buttons section*/
 
@@ -207,4 +206,7 @@ body {
  }
 .team {
     background-color: #ffffff;
+}
+.hero{
+    background-color: var(--NAVY-BLUE);
 }
