@@ -7,7 +7,7 @@
         --OCEAN: #404BBF;
 }
 .logo {
-    color: var(--IRIS);
+    color: var(--IRIS);         
         font-size: 18px;
         font-family: "Raleway", sans-serif;
         font-weight: 800;
@@ -72,36 +72,7 @@ color: var(--NAVY-BLUE);
 } 
 .section-one-container {
     background-color:var(--NAVY-BLUE);
-}
-.button {
-    cursor: pointer;
-    font-family: inherit; /* Moștenește fontul definit în body */
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color: #ffffff;
-    background-color: #4D5AE5;
-}
-button:hover {
-    color: #FFFFFF;
-        background-color: #404bbf;
-}
-button:focus {
-    color: #ffffff;
-    background-color: #404BBF
-}
-.sec-one-button {
-font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color: #404bbf;
-    background-color: var(--SLATE));
-    cursor: pointer;
-}
-
+}   
 
 a{
     text-decoration: none;
