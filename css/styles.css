@@ -70,49 +70,9 @@ color: var(--NAVY-BLUE);
     letter-spacing: 0.02em;
     color: #ffffff;
 } 
-.section-one-container {
-    background-color:var(--NAVY-BLUE);
-}   
-/* Stiluri pentru butoanele din portofolio.html */
-.section-one-container .sec-one-button {
-    color: var(--IRIS);
-    background-color: var(--CLOUD);
-    cursor: pointer;
-    transition: color 0.3s ease, background-color 0.3s ease;
-}
 
-.sec-one-button:hover,
-.sec-one-button:focus {
-    color: #FFFFFF;
-    background-color: #404BBF;
-}
-/* Stiluri pentru butoanele din index.html */
-.sec-one-button {
-    background-color: #4D5AE5;
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color: #ffffff;
-    cursor: pointer;
-}
-.section-one-container{
-    background-color: #4D5AE5;
-    color: #ffffff
-}
-.sec-one-button:hover{
-    background-color: #404BBF;
-}
-.sec-one-button:focus {
-    background-color: #404BBF;
-}
-.sec-one-button:hover{
-    background-color: #404BBF;
-}
-.sec-one-button:focus {
-    background-color: #404BBF;
-} */
+
+
 a{
     text-decoration: none;
 }
