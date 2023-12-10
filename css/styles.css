@@ -73,6 +73,7 @@ color: var(--NAVY-BLUE);
 .section-one-container {
     background-color:var(--NAVY-BLUE);
 }   
+/* Stiluri pentru butoanele din portofolio.html */
 .section-one-container .sec-one-button {
     color: var(--IRIS);
     background-color: var(--CLOUD);
@@ -80,12 +81,13 @@ color: var(--NAVY-BLUE);
     transition: color 0.3s ease, background-color 0.3s ease;
 }
 
-.section-one-container .sec-one-button:hover,
-.section-one-container .sec-one-button:focus {
+.sec-one-button:hover,
+.sec-one-button:focus {
     color: #FFFFFF;
     background-color: #404BBF;
 }
-.button.list .sec-one-button {
+/* Stiluri pentru butoanele din index.html */
+.sec-one-button {
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -97,8 +99,8 @@ color: var(--NAVY-BLUE);
     transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-.button.list .sec-one-button:hover,
-.button.list .sec-one-button:focus {
+.sec-one-button:hover,
+.sec-one-button:focus {
     background-color: #404BBF;
     color: #ffffff;
 }
