@@ -69,6 +69,7 @@ color: var(--NAVY-BLUE);
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
+    background-color: var(--NAVY-BLUE);
 } 
 /*buttons section*/
 
@@ -95,7 +96,7 @@ color: var(--NAVY-BLUE);
 /*Button - first section*/
 
 .button {
-    background-color: var(--NAVY-BLUE);
+    background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
