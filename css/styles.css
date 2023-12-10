@@ -63,6 +63,9 @@ color: var(--NAVY-BLUE);
 .address-link:hover {
     color:#404bbf
 }
+.hero {
+    background-color: var(--NAVY-BLUE);
+}
 .aparence{
     font-size: 56px;
     line-height: 1.07;
@@ -206,7 +209,4 @@ body {
  }
 .team {
     background-color: #ffffff;
-}
-.hero{
-    background-color: var(--NAVY-BLUE);
 }
