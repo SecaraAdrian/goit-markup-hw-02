@@ -86,7 +86,9 @@ color: var(--NAVY-BLUE);
     /* Adaugă o tranziție lină pentru schimbarea culorii la hover și focalizare */
 }
 
-.sec-one-button:hover,
+.sec-one-button:hover{
+    background-color: #404BBF;
+}
 .sec-one-button:focus {
     background-color: #404BBF;
 }
