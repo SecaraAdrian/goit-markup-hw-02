@@ -73,6 +73,15 @@ color: var(--NAVY-BLUE);
 .section-one-container {
     background-color:var(--NAVY-BLUE);
 }   
+.button{
+    background-color: #4D5AE5;
+    color: #ffffff;
+
+}
+.button:hover
+.button:hover{
+    background-color: #404bbf;
+}
 .sec-one-button {
     background-color: var(--CLOUD);
     font-family: "Roboto", sans-serif;
